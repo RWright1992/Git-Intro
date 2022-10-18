@@ -1,0 +1,4 @@
+# comments
+*.java
+**/ignore
+ignore2/
